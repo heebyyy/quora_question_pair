@@ -11,6 +11,7 @@ seaborn = "*"
 nltk = "*"
 distance = "*"
 plotly = "*"
+fuzzywuzzy = "*"
 
 [dev-packages]
 
